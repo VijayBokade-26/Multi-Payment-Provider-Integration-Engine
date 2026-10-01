@@ -13,3 +13,10 @@ The new approach focuses on integrating selected payment providers directly into
 The integration is designed to support providers such as **Stripe, PayPal, and GoCardless**, while maintaining a consistent internal payment and transaction workflow across different providers.
 
 The architecture also aims to make it easier to introduce additional payment providers in the future without significantly changing the core application.
+
+
+## Engineering Progress
+
+Detailed implementation and architecture notes are documented as the project evolves.
+
+- [Provider Architecture & Connections Migration](progress/2026-10-01-provider-architecture.md)
